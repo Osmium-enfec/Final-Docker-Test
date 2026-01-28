@@ -1,0 +1,6 @@
+{
+  "title": "Django Greet View",
+  "description": "Implement a Django view that greets the user by name.",
+  "files": ["starter_code.py", "solution_code.py", "README.md"],
+  "entrypoint": "views.py"
+}
